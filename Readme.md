@@ -12,3 +12,7 @@ bundle exec oink oink_ready_log.log
 
 [1]: https://github.com/noahd1/oink
 [2]: https://github.com/topfunky/hodel_3000_compliant_logger
+
+License
+-------
+MIT License
